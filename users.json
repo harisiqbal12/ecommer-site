@@ -1,0 +1,32 @@
+[
+  {
+    "email": "haris@haris.com",
+    "password": "4197c0f1532b7eb7307efcef7d528128945fc693a54bd126ef996fae74556a907b47aa852fecb338e70cce61ef31a8ea5b1792bb47f6a6ebe2c19deb1b6c85f4.57895e0270fb0973",
+    "id": "1662f6b0"
+  },
+  {
+    "email": "haris6072@gmail.com",
+    "password": "c45b42d3368cfe9172fa44ed349526b90fb5a01d90cc69baebccff535cb60dd8edee5500baa849e6108c6ec944c0f49091aad838796b52d581b1b91fd4e76634.d5abef0e6081cf01",
+    "id": "90d85b40"
+  },
+  {
+    "email": "google@gmail.com",
+    "password": "378eac87a253afffe72c913b48cf1b9000eb06a8f7b51b0ce70a087e058e0743abf7d90e853df25e7299df8175f72cbebe9f76f01627f5aa9b2fcea78f573496.d92e20f79cb643a9",
+    "id": "20b81a6b"
+  },
+  {
+    "email": "test@test.com",
+    "password": "7ce228a8d662611e73e99da12b079b605ababf17a33b747b71232018f84f302920596d3da009a42082ef382d24c267c47b5a79bda158edd28d09f9847b96df56.02cc00f5b3a6ee5c",
+    "id": "5df26995"
+  },
+  {
+    "email": "mouse@mouse.com",
+    "password": "d86e59e5f11262c58d450f5862f8510fb2b80cb79c898bf531642603b7d1ff7c71a3d5b7b07db4fd5bd6c43091950afc688ac6f17e360c1b8e155b31cfd6509c.3cd0f71ec26d4c51",
+    "id": "8c2d1b60"
+  },
+  {
+    "email": "pen@pen.com",
+    "password": "1a348cc9a85d75bbbb753b72dbbf68598b6d94ebb102376ccf15c84a8f5af2caa9266757dfdbb0175e9fae64feb52bddbe66a82b70b1915da8f24e102a662e76.1916aedc0c39d074",
+    "id": "80710079"
+  }
+]

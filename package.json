@@ -1,0 +1,19 @@
+{
+  "name": "ecom",
+  "version": "1.0.0",
+  "description": "ecommers-site",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "author": "HarrisK",
+  "license": "ISC",
+  "dependencies": {
+    "alert": "^5.0.4",
+    "cookie-session": "^1.4.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.6.1",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.4"
+  }
+}
